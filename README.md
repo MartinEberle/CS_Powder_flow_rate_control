@@ -1,4 +1,4 @@
-# CS_Powder_flow_rate_control Test
+# CS_Powder_flow_rate_control 
 ## User interface overview
 The dashboard is divided into two main windows. In the top window the user can select the filter settings, and the powder feeders in use. The data recording can be started and stopped using the respective buttons (Start and Stop). 
 Previous data recording can be deleted using the “Reset” button. Raw data can be saved clicking the “Save” button. In the bottom window the powder flow rate is displayed live in the form of a scatterplot, where the y-axis (vertical) represents the powder flow rate in kg/hr and the x-axis (horizontal) represents the time represented in seconds.
